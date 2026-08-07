@@ -1,12 +1,6 @@
 # Algoritmia y Estructura de Datos
 
-Este repositorio contiene implementaciones prácticas en C++ de **algoritmos y estructuras de datos**, desarrolladas durante el curso.
-
----
-
-## Organización del repositorio
-
-El contenido está organizado por **temas,técnicas algorítmicas y evaluaciones realizadas**, facilitando su comprensión y exploración.
+Este repositorio contiene implementaciones prácticas en C++ de **algoritmos y estructuras de datos**, desarrolladas durante el curso. El contenido está organizado por **temas,técnicas algorítmicas y evaluaciones realizadas**, facilitando su comprensión y exploración.
 
 ---
 
@@ -39,15 +33,7 @@ Implementaciones de estructuras de datos fundamentales:
 
 ---
 
-## Algoritmos destacados
-
-- `Hanoi.cpp` – Resolución del problema clásico de las Torres de Hanoi  
-- `ColaPrioridad.cpp` – Implementación de una cola de prioridad  
-- `PasarPila.cpp` – Manipulación y transferencia de datos entre pilas  
-
----
-
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Lenguajes:** C / C++
 - **IDE:** NetBeans
