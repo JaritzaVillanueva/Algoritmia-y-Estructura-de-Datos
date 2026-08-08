@@ -1,40 +1,48 @@
-# Algoritmia y Estructura de Datos
+# Algoritmia y Estructuras de Datos (1INF27) - PUCP
 
-Este repositorio contiene implementaciones prácticas en C++ de **algoritmos y estructuras de datos**, desarrolladas durante el curso. El contenido está organizado por **temas,técnicas algorítmicas y evaluaciones realizadas**, facilitando su comprensión y exploración.
+Repositorio con laboratorios, prácticas, ejercicios de clase y evaluaciones desarrollados durante el curso 1INF27 - Algoritmia y Estructuras de Datos de la PUCP. El contenido está orientado a la implementación de algoritmos y estructuras de datos en C/C++.
 
----
+## Tecnologías y Entorno
 
-## Clase
-Implementaciones de **técnicas algorítmicas vistas en clase**, enfocadas en el análisis y resolución de problemas.
+- Lenguaje: C/C++
+- Entorno de desarrollo: proyectos de NetBeans
+- Compilación: soporte mediante Makefile en varios proyectos
 
-- **Backtracking**  
-  Exploración recursiva de soluciones con poda de caminos inválidos.
+## Contenido
 
-- **Dijkstra**  
-  Algoritmo para encontrar el camino más corto en grafos ponderados con pesos no negativos.
+El repositorio reúne material de estudio y práctica relacionado con:
 
-- **Fuerza Bruta**  
-  Enfoque directo que evalúa todas las soluciones posibles, útil para el análisis de complejidad.
+### Algoritmos
 
----
+- Backtracking
+- Dijkstra
+- Fuerza bruta
+- Divide y vencerás
+- Recursión
+- Merge sort
+- DFS para grafos
 
-## TADs (Tipos Abstractos de Datos)
-Implementaciones de estructuras de datos fundamentales:
+### Estructuras de Datos
 
-- **Pila**
-- **Cola**
-- **Cola de Prioridad**
-- **Lista**
-- **Árboles Binarios**
-- **Árboles Binarios de Búsqueda (ABB)**
-- **Grafos**
-  - Matriz de adyacencia
-  - Listas de adyacencia
+- Pila
+- Cola
+- Cola de prioridad
+- Listas simplemente enlazadas
+- Árboles binarios
+- Árboles binarios de búsqueda
+- Grafos
 
----
+## Estructura de Contenidos
 
-## Tecnologías utilizadas
+- Clase/: ejercicios y ejemplos desarrollados en clase, incluyendo backtracking, Dijkstra, divide y vencerás, fuerza bruta, Hanoi con pilas y recursión.
+- Lab1/, Lab2/, Lab3/, Lab4/ y Lab5/: laboratorios y prácticas correspondientes a distintos ciclos del curso.
+- EX1/ y EX2/: evaluaciones y ejercicios de examen.
+- TADs/: implementaciones de tipos abstractos de datos como pilas, colas, listas, árboles y grafos.
 
-- **Lenguajes:** C / C++
-- **IDE:** NetBeans
-- **Compilación:** Makefile / compilador estándar
+## Método de ejecución
+
+Los proyectos se encuentran organizados como proyectos de C/C++ de NetBeans y, en muchos casos, incluyen archivos Makefile. Para ejecutar un ejercicio en particular, puede abrirse la carpeta correspondiente en NetBeans y compilarse desde allí, o bien utilizar make desde la carpeta del proyecto cuando el entorno lo permita.
+
+## Honestidad Académica
+
+Este material se publica con fines educativos y de portafolio personal. Se recomienda utilizarlo como referencia para comprender conceptos y practicar, y no como solución directa de actividades académicas del curso.
