@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: ANA RONCAL
+ * Author: PUCP
  * Created on 21 de agosto de 2023, 11:57 AM
  */
 
